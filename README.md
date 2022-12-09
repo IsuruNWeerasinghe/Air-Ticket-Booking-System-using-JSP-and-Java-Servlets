@@ -4,6 +4,6 @@ It saves time as it allows online procedure as users no longer to wait in a queu
 Admin is the main authority who can make addition, deletion, modification of flights if required.
 
 ## Used Technologies
-JSP
-Java Servletes
-MySQL
+  JSP,
+  Java Servletes,
+  MySQL
